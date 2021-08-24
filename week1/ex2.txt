@@ -1,0 +1,48 @@
+    1  ls
+    2  nano
+    3  BCCCwget https://dl.googlecom/linux/direct/google-chrome-stable_currentamd64.deb
+    4  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    5  sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+    6  $ssh -X 
+    7  $ssh l.kayirly
+    8  ssh 
+    9  ssh -x
+   10  help
+   11  help ssh
+   12  git@github.com:AlimKAH/OS.git
+   13  ssh -X AlimKAH
+   14  ssh -X l.kayirly@innopolis.universuty
+   15  ssh -X l.kayirly@innopolis.university
+   16  sudo visudo
+   17  ssh -X l.kayirly@innopolis.university
+   18  whoami
+   19  hostname
+   20  man ssh
+   21  ды
+   22  ls
+   23  mkdir
+   24  mkdir --help
+   25  sudo apt update
+   26  sudo apt install telegram-desktop
+   27  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   28  sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+   29  $ssh -X l.kayirly@osc-2.edu.innopolis.ru
+   30  $ssh l.kayirly@osc-2.edu.innopolis.ru
+   31  $ssh -X l.kayirly@osc-2.edu.innopolis.ru
+   32  mkdir ~/week1
+   33  cd ~/week1
+   34  ls
+   35  cd ~
+   36  ls
+   37  grep gcc usr/bin | sort -r > ex1.txt
+   38  grep gcc /usr/bin | sort -r > ex1.txt
+   39  cat /usr/bin
+   40  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   41  cat ex1.txt
+   42  ls /usr/bin
+   43  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   44  cat ex1.txt 
+   45  ls
+   46  cd ~/week1
+   47  history
+   48  history > ex2.txt
