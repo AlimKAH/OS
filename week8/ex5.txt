@@ -1,0 +1,8 @@
+>>   Physical address: 
+1) Limitation: size of RAM
+2) Uses: Real memory
+3) Access: CPU
+>>   Virtual address:
+1)Limitation: Isn't liminted by RAM
+2)Uses: Vo real memory
+3)Acces: MMU
